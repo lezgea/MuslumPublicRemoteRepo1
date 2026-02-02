@@ -6,4 +6,4 @@ My name is **Muslum Rahimov**, and I am a web developer with experience in front
 
 This lab focuses on understanding version control basics and setting up a clean development process using Git and GitHub.
 
-Remote change made by Muslum Rahimov
+Local changes and remote change made by Muslum Rahimov
